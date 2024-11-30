@@ -1,6 +1,6 @@
 ## 실행 전
 pip install ultralytics opencv-python pandas
-install 해야 함! -> Terminal에 위 코드 실행만 하면 됩니다
+install 해야 함! --> Terminal에 위 코드 실행만 하면 됩니다
 
 ## 실행 중 
 첫 실행에서 다운받는 시간이 조금 걸립니다. 두번째 실행부터는 대기시간 없습니다.
